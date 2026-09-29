@@ -57,8 +57,6 @@ Os dois notebooks importam os modelos de `app.py`, então o código não é dupl
 
 ## Instalação
 
-Requer Python 3.9 ou superior.
-
 ```bash
 # 1. Entre no arquivo do projeto
 app.py
