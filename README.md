@@ -139,7 +139,3 @@ Os tempos variam de computador para computador; o formato das curvas é o que im
 - **Consultas do benchmark:** geradas automaticamente a partir das palavras do menor subconjunto, para que existam em todos os tamanhos. O Booleano recebe as palavras unidas por `AND`.
 - **Relevância:** avaliada qualitativamente, olhando o Top-5 de 5 consultas escolhidas. Não há avaliação formal com pessoas (precision@k, nDCG), o que seria o próximo passo.
 - **Idioma:** o catálogo está em inglês; o pré-processamento usa *stopwords* e regras de plural em inglês.
-
-## Integrantes
-
-- Carlos, Melissa e Arthur
