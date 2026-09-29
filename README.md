@@ -17,7 +17,6 @@ Comparamos **5 algoritmos clássicos de busca** sobre um catálogo real de produ
 - [Como usar a demo](#como-usar-a-demo)
 - [Resultados](#resultados)
 - [Decisões e limitações](#decisões-e-limitações)
-- [Integrantes](#integrantes)
 
 ## Modelos implementados
 
