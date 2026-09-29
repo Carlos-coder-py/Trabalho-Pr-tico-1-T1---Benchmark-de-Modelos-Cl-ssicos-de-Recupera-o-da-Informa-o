@@ -1,16 +1,12 @@
 """
-TRABALHO PRÁTICO 1 — Benchmark de modelos clássicos de Recuperação da Informação
-Domínio: E-commerce (dataset de produtos do Kaggle)
-
-Como rodar a demo:   streamlit run app.py
-
-Este arquivo tem TUDO em ordem:
+Este arquivo tem tudo em ordem:
   1. Carregar os dados
   2. Pré-processamento (limpar o texto)
   3. Os 5 modelos de busca
   4. A interface do Streamlit (demo)
 Os notebooks (exploracao.ipynb e resultados.ipynb) reutilizam este arquivo.
 """
+
 import re
 from pathlib import Path
 
