@@ -60,12 +60,12 @@ Os dois notebooks importam os modelos de `app.py`, então o código não é dupl
 Requer Python 3.9 ou superior.
 
 ```bash
-# 1. Entre na pasta do projeto
-cd trabalho-ri
+# 1. Entre no arquivo do projeto
+app.py
 
-# 2. Crie e ative um ambiente virtual (recomendado)
+# 2. Crie e ative um ambiente virtual
 python3 -m venv .venv
-source .venv/bin/activate          # Windows: .venv\Scripts\activate
+source .venv/bin/activate
 
 # 3. Instale as dependências
 python3 -m pip install -r requirements.txt
