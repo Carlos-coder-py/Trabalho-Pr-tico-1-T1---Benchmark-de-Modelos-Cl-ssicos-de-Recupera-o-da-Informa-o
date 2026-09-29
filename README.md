@@ -44,7 +44,7 @@ Todos ficam em `app.py` e seguem a mesma interface: `indexar(textos)` e `buscar(
 ## Estrutura do projeto
 
 ```
-trabalho-ri/
+Pasta
 ├── app.py              # Código principal: dados, pré-processamento, 5 modelos e demo Streamlit
 ├── exploracao.ipynb    # Exploração do dataset (tabelas, gráficos e conclusões)
 ├── resultados.ipynb    # Benchmark de tempo e comparação de relevância
@@ -52,8 +52,6 @@ trabalho-ri/
 ├── requirements.txt    # Bibliotecas
 └── README.md
 ```
-
-Os dois notebooks importam os modelos de `app.py`, então o código não é duplicado.
 
 ## Instalação
 
