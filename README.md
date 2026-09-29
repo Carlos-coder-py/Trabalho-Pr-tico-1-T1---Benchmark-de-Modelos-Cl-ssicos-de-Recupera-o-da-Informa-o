@@ -1,2 +1,1 @@
-# Trabalho-Pr-tico-1-T1---Benchmark-de-Modelos-Cl-ssicos-de-Recupera-o-da-Informa-o
-Trabalho 
+Trabalho Prático 1 T1 Benchmark de Modelos Clássicos de Recuperação da Informação
